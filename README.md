@@ -11,3 +11,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
     - [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) Select By ID [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/select-by-id.py)
     - [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) Japanese Cities' Attributes [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/japanese-cities-attributes.py)
     - [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) Japanese Cities' Names [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/japanese-cities-name.py)
+    - [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) Weather Observation Station 1 [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/weather-observation-station-1.py)
