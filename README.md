@@ -24,3 +24,4 @@ Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
     - [Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) Weather Observation Station 12 [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/weather-observation-station-12.sql)
     - [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) Higher Than 75 Marks [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/more-than-75-marks.sql)
     - [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) Employee Names [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/name-of-employees.sql)
+    - [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) Employee Salaries [Solution](https://github.com/sonmez-hakan/hackerrank-sql/blob/master/BasicSelect/salary-of-employees.sql)
